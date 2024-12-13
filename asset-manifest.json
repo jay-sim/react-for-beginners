@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/https//jay-sim.github.io/react-for-beginners/static/js/main.3b627493.js",
-    "index.html": "/https//jay-sim.github.io/react-for-beginners/index.html",
-    "main.3b627493.js.map": "/https//jay-sim.github.io/react-for-beginners/static/js/main.3b627493.js.map"
+    "main.js": "/react-for-beginners/static/js/main.825bd231.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.825bd231.js.map": "/react-for-beginners/static/js/main.825bd231.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b627493.js"
+    "static/js/main.825bd231.js"
   ]
 }
